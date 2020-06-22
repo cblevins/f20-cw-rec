@@ -6,7 +6,8 @@ title:
 <div style="text-align: center">
 <p>
 HIST 4212/5212: Civil War & Reconstruction<br>
-Professor Cameron Blevins (he/him/his) | cameron.blevins@ucdenver.edu<br>
+Professor Cameron Blevins (he/him/his)<Br>
+cameron.blevins@ucdenver.edu<br>
 M/W 12:30-1:45pm
 </p>
 </div>

@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
-    {% seo title=false %}
+    <title>{% if page.title and page.title != "" %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    {% seo %}
     {% include meta.html %}
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/style.css" />
@@ -10,7 +10,8 @@
     <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
 
     <meta name="theme-color" content="#000000">
-    <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/images/favicon-32x32.png">
+    <!---<link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/images/favicon-32x32.png">--->
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/images/36-star-flag-small-crop.png">
   </head>
 
   <body>
@@ -19,7 +20,7 @@
       <div class="wrapper-masthead">
         <div class="container">
           <header class="masthead clearfix">
-            <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl }}{{ site.avatar }}" alt="{{ site.title }}" /></a>
+            <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl }}{{ site.avatar }}" /></a>
 
             <div class="site-info">
               <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
@@ -27,10 +28,10 @@
             </div>
 
             <nav>
-              <a href="{{ site.baseurl }}/">Home</a>
-              <a href="{{ site.baseurl }}/getting-started">Getting Started</a>
-              <a href="{{ site.baseurl }}/search">Search</a>
-              <a href="{{ site.baseurl }}/about">About</a>
+              <a href="{{ site.baseurl }}/">About this Course</a>
+              <a href="{{ site.baseurl }}/schedule">Schedule</a>
+              <a href="{{ site.baseurl }}/assignments">Assignments</a>
+              <a href="{{ site.baseurl }}/policies">Policies</a>
             </nav>
           </header>
         </div>
@@ -45,12 +46,12 @@
       <div class="wrapper-footer">
         <div class="container">
           <footer class="footer">
-            {% include svg-icons.html %}
+            <!--{% include svg-icons.html %}-->
+            <a href="http://cameronblevins.org">Cameron Blevins</a>, University of Colorado Denver, Fall 2020
           </footer>
         </div>
       </div>
     </div>
-
     {% include analytics.html %}
   </body>
 </html>
