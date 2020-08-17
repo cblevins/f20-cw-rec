@@ -27,7 +27,7 @@ I will be conducting office hours [over Zoom](https://ucdenver.zoom.us/j/9281866
 If unforeseen circumstances come up during the semester and you need an extension on a particular assignment, please email me. Otherwise you are expected to submit all assignments by the due date.
 
 **Graduate Students**<br>
-This course is listed as a 4000/5000 level class. If you are a graduate student enrolled in HIST 5212, you are expected to complete additional readings and assignments. I have noted these in the Course Schedule and Assignments page. When possible, I will also try to list optional readings on certain class days as a resource for you. These are not required, but encouraged.
+This course is listed as a 4000/5000 level class. If you are a graduate student enrolled in HIST 5212, you are expected to complete additional readings and assignments. I have noted these in the Course Schedule and Assignments page. 
 	
 **Course Content Note**<br>
 This course will involve historical topics that you may find emotionally distressful, including episodes of violence. I have included these topics because they are foundational to understanding the major themes of the course. If you have concerns about reading and discussing particular topics, please come talk to me at the beginning of the semester. I will work with you to find alternative readings or ways for you to participate on the days in which we discuss those topics.
@@ -36,7 +36,7 @@ This course will involve historical topics that you may find emotionally distres
 Every student should prioritize their physical, emotional, and mental health. Any student who is struggling to do so (lacking a safe and stable place to live, having difficulty affording sufficient food to eat every day, facing financial stresses, etc.) is urged to consult the resources listed here: <https://www.ucdenver.edu/student/health-wellness>, and in particular the University's [Counseling Center](https://www.ucdenver.edu/counseling-center). 
 
 **Reasonable Accommodation**<br>
-I am committed to providing everyone the support and services needed to participate in this course. If you have a learning disability, I encourage you to notify me and to contact [Disability Resources and and Services](https://www.ucdenver.edu/student-services/resources/disability-resources-services/accommodations/Pages/accessing-accommodations.aspx) at 303-315-3510 or by e-mail at <disabilityresources@ucdenver.edu>. If you have a temporary medical condition or injury, please reach out to Disability Resources and Services as well.
+I am committed to providing everyone the support and services needed to participate in this course. If you have a learning disability, I encourage you to notify me and to contact [Disability Resources and Services](https://www.ucdenver.edu/student-services/resources/disability-resources-services/accommodations/Pages/accessing-accommodations.aspx) at 303-315-3510 or by e-mail at <disabilityresources@ucdenver.edu>. If you have a temporary medical condition or injury, please reach out to Disability Resources and Services as well.
  
 **Religious Observances**<br>
 If, because of religious obligations, you have conflicts with required assignments/attendance please email me directly as soon as possible at the beginning of the semester. 
