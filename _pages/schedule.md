@@ -32,6 +32,7 @@ permalink: /schedule/
 	- Jack Hitt and Chenjerai Kumanyika, ["The Assets"](http://www.gimletmedia.com/uncivil/the-assets#episode-player) *Uncivil* podcast (December 20, 2017).
 	- Rebecca Onion and Jamelle Bouie, ["When Cotton Became King”](https://slate.com/podcasts/history-of-american-slavery/2015/08/history-of-american-slavery-episode-6-cotton-charles-ball) *The History of American Slavery* podcast (August 24, 2015).
 - As you listen to the podcast, take notes on both the content and the structure of the podcast. Use the running time (minutes/seconds) to note things like introductions, music, advertisements, interviews, transitions, etc. Take notes, too, on things like speaking clarity, sound quality, speaking style, etc. What works in this podcast? How would you improve it? 
+- Download and install [Audacity](https://www.audacityteam.org/download/) and the [LAME .mp3 encoder](https://manual.audacityteam.org/man/faq_installing_the_lame_mp3_encoder.html) on laptop and bring to class. 
 - Graduate students:
   - Sven Beckert and Seth Rockman, [“Introduction”](https://www.dropbox.com/s/ik878j4zgpvjwcq/j.ctt1dfnrs7.3.pdf?dl=0) in Sven Beckert and Seth Rockman, eds. *Slavery’s Capitalism: A New History of American Economic Development* (2015), 1-27.
 
