@@ -42,11 +42,13 @@ permalink: /schedule/
   - **Warning:** *12 Years a Slave* is one of the most visceral and realistic depictions of slavery in a major motion picture, and contains graphic scenes of murder, rape, and torture. If you do not wish to watch this content, please email me and we will come up with an alternative reading that still allows you to engage with these topics (ex. the film *Harriet* (PG-13), selected episodes from *Underground*, etc.).
 - Graduate students:
   - [“Introduction: Mistresses of the Market”](https://www.dropbox.com/s/j5ad17ouckpbs5x/j.ctvbnm3fz.3.pdf?dl=0) from Stephanie Jones-Rogers, *They Were Her Property: White Women as Slave Owners in the American South* (2019), ix-xx.
+- *Presentation: Lindy*
 
 **W., 9/2: Sectional Conflict and Western Expansion**
 - **Group B** post questions to `#discussions` channel - include reflections on the process of recording.
 - Erica Armstrong Dunbar, *She Came to Slay* (selections)
 - In your podcast pair: record a 30-second introduction to yourselves that includes at least one piece of music or sound effect (this can be as silly or as serious as you like), export it as a .MP3 file, and upload it to the #podcasts Slack channel prior to the start of class. The point of this assignment is to practice the mechanics of recording, editing, and exporting audio.
+- *Presentation: Parker*
 
 ~~**M., 9/7: No Class, Official Holiday**~~
 - Work on Podcast #1 over the long weekend!
@@ -94,16 +96,19 @@ permalink: /schedule/
 - James McPherson, [“Who Freed the Slaves?”](https://www.dropbox.com/s/xnh7c9r69hwzoki/McPherson_WhoFreedTheSlaves.pdf?dl=0) *Proceedings of the American Philosophical Society* Vol. 139, No. 1 (Mar., 1995), pp. 1-10.
 - Jack Hitt and Chenjerai Kumanyika, ["The Raid"](http://www.gimletmedia.com/uncivil/the-raid#episode-player) (October 4, 2017) from *Uncivil* podcast.
 - ["Harriet Tubman Leads an Army of Bad Bitches (ft. Octavia Spencer)"](https://www.youtube.com/watch?v=VpTf1GFjCd8) *Drunk History* (September 23, 2015).
+- *Presentation: Robin*
 
 **W., 10/7: Home Fronts**
 - **Group B** post questions to `#discussions` channel
 - Jack Hitt and Chenjerai Kumanyika, ["The Ring"](https://www.gimletmedia.com/uncivil/the-ring) (November 9, 2017) from *Uncivil* podcast.
 - Stephanie McCurry, ["The Confederacy Was an Antidemocratic, Centralized State"](https://www.theatlantic.com/ideas/archive/2020/06/confederacy-wasnt-what-you-think/613309/), *The Atlantic* (June 21, 2020).
 - Podcast pairs: Come to class with *two ideas* for Podcast #2 and be ready to give a 30-second "elevator pitch" for each of them.
+- *Presentation: Amy*
 
 **M., 10/12: Turning Points | The Summer of 1863**
 - **Group A** post questions to `#discussions` channel
 - Watch film *Glory* (1989). Available on Amazon, iTunes, YouTube, Google Play, Microsoft. 
+- *Presentation: Jeffrey*
 
 **W., 10/14: The Wider World of War | 1863-1864**
 - **Group B** post questions to `#discussions` channel
@@ -111,6 +116,7 @@ permalink: /schedule/
 - Come to class with an outline of your podcast and at least *two sources*.
 - Graduate Students:
   - Stacey Smith, ["Beyond North and South Putting the West in the Civil War and Reconstruction"](https://www.dropbox.com/s/vw14qhuuejttw9q/Smith_Beyond_North_and_South_putting.PDF?dl=0) *Journal of the Civil War Era* (December 2016).
+- *Presentation: Anna*
 
 *Podcast #2 Due Sunday, 10/18, by 11:59PM*
 
@@ -118,6 +124,7 @@ permalink: /schedule/
 - **Group A** post questions to `#discussions` channel
 - Jack Hitt and Chenjerai Kumanyika, ["The Soldiers"](https://gimletmedia.com/shows/uncivil/39h3wv/the-soldiers) (November 1, 2017) from *Uncivil* podcast.
 - Dillon Carroll, ["Civil War Soldiers’ Wet Dreams"](https://nursingclio.org/2017/11/01/civil-war-soldiers-wet-dreams/) *Nursing Clio* (November 1, 2017).
+- *Presentation: TJ*
 
 *Peer Review of Podcast #2 Due Wednesday, October 21st by 2:30PM (start of class)*
 
@@ -150,6 +157,7 @@ permalink: /schedule/
     - [15th Amendment by Nnamdi Ogbonnaya](https://project.wnyc.org/themostperfectalbum/#amendment-15)
 - Graduate Students: 
   - Kidada Williams, ["Maintaining a Radical Vision of African Americans in the Age of Freedom"](https://www.journalofthecivilwarera.org/forum-the-future-of-reconstruction-studies/maintaining-a-radical-vision/) *Journal of the Civil War Era* (March 2017).
+- *Presentation: Caitlin*
 
 **W., 11/4: Greater Reconstruction**
 - **Group B** post questions to `#discussions` channel
