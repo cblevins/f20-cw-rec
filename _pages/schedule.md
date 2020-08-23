@@ -28,25 +28,26 @@ permalink: /schedule/
 
 **W., 8/26: King Cotton | Podcasting Workshop**
 - **Group B** post questions to `#discussions` channel
-- Listen to ONE of the following podcast episodes (assigned in class on Monday):
-	- Jack Hitt and Chenjerai Kumanyika, ["The Assets"](http://www.gimletmedia.com/uncivil/the-assets#episode-player) *Uncivil* podcast (December 20, 2017).
-	- Rebecca Onion and Jamelle Bouie, ["When Cotton Became King”](https://slate.com/podcasts/history-of-american-slavery/2015/08/history-of-american-slavery-episode-6-cotton-charles-ball) *The History of American Slavery* podcast (August 24, 2015).
+- Listen to ONE of the following podcast episodes:
+  - HIST 4212: Rebecca Onion and Jamelle Bouie, ["When Cotton Became King”](https://slate.com/podcasts/history-of-american-slavery/2015/08/history-of-american-slavery-episode-6-cotton-charles-ball) *The History of American Slavery* podcast (August 24, 2015).
+  - HIST 5212: Jack Hitt and Chenjerai Kumanyika, ["The Assets"](http://www.gimletmedia.com/uncivil/the-assets#episode-player) *Uncivil* podcast (December 20, 2017).
 - As you listen to the podcast, take notes on both the content and the structure of the podcast. Use the running time (minutes/seconds) to note things like introductions, music, advertisements, interviews, transitions, etc. Take notes, too, on things like speaking clarity, sound quality, speaking style, etc. What works in this podcast? How would you improve it? 
 - Download and install [Audacity](https://www.audacityteam.org/download/) and the [LAME .mp3 encoder](https://manual.audacityteam.org/man/faq_installing_the_lame_mp3_encoder.html) on laptop and bring to class. 
-- Graduate students:
+- HIST 5212:
   - Sven Beckert and Seth Rockman, [“Introduction”](https://www.dropbox.com/s/ik878j4zgpvjwcq/j.ctt1dfnrs7.3.pdf?dl=0) in Sven Beckert and Seth Rockman, eds. *Slavery’s Capitalism: A New History of American Economic Development* (2015), 1-27.
 
 **M., 8/31: Half Slave, Half Free**
 - **Group A** post questions to `#discussions` channel
 - Watch the film: *12 Years a Slave* (2013), available to rent/buy on Amazon, Microsoft Store, Google Play, Youtube, iTunes.
   - **Warning:** *12 Years a Slave* is one of the most visceral and realistic depictions of slavery in a major motion picture, and contains graphic scenes of murder, rape, and torture. If you do not wish to watch this content, please email me and we will come up with an alternative reading that still allows you to engage with these topics (ex. the film *Harriet* (PG-13), selected episodes from *Underground*, etc.).
-- Graduate students:
+- HIST 5212::
   - [“Introduction: Mistresses of the Market”](https://www.dropbox.com/s/j5ad17ouckpbs5x/j.ctvbnm3fz.3.pdf?dl=0) from Stephanie Jones-Rogers, *They Were Her Property: White Women as Slave Owners in the American South* (2019), ix-xx.
 - *Presentation: Lindy*
 
 **W., 9/2: Sectional Conflict and Western Expansion**
 - **Group B** post questions to `#discussions` channel - include reflections on the process of recording.
 - Erica Armstrong Dunbar, *She Came to Slay* (selections)
+- Listen to the second half (starting at 14:15 min) of Nick Quah's interview with Catherine Saint Louis: ["What Does a Podcast Editor Do?"](https://omny.fm/shows/servant-of-pod-with-nick-quah/what-does-a-podcast-editor-do), *Servant of Pod* (August 5, 2020).
 - In your podcast pair: record a 30-second introduction to yourselves that includes at least one piece of music or sound effect (this can be as silly or as serious as you like), export it as a .MP3 file, and upload it to the #podcasts Slack channel prior to the start of class. The point of this assignment is to practice the mechanics of recording, editing, and exporting audio.
 - *Presentation: Parker*
 
@@ -114,7 +115,7 @@ permalink: /schedule/
 - **Group B** post questions to `#discussions` channel
 - [Layli Long Soldier reading of “38"](https://www.youtube.com/watch?v=MoRRBwQbd2E) (poem from her collection *WHEREAS*) [[text of poem](https://onbeing.org/blog/layli-long-soldier-38/)]
 - Come to class with an outline of your podcast and at least *two sources*.
-- Graduate Students:
+- HIST 5212:
   - Stacey Smith, ["Beyond North and South Putting the West in the Civil War and Reconstruction"](https://www.dropbox.com/s/vw14qhuuejttw9q/Smith_Beyond_North_and_South_putting.PDF?dl=0) *Journal of the Civil War Era* (December 2016).
 - *Presentation: Anna*
 
@@ -139,7 +140,7 @@ permalink: /schedule/
 - **Group A** post questions to `#discussions` channel
 - [Letter from Jourdan Anderson to P. H. Anderson, 1865](https://www.dropbox.com/s/hpgbpioy7a3zt1f/JourdanAnderson_1865.docx?dl=0)
 - Frances Ellen Watkins Harper, ["We Are All Bound Up Together,"](https://awpc.cattcenter.iastate.edu/2017/03/21/we-are-all-bound-up-together-may-1866/) speech delivered at the Eleventh National Women's Rights Convention, May 1, 1866.
-- Graduate Students: 
+- HIST 5212: 
   - Carole Emberton, “Unwriting the Freedom Narrative" *The Journal of Southern History* (May 2016).
 
 **W., 10/28: The Second American Revolution**
@@ -155,7 +156,7 @@ permalink: /schedule/
     - [14th Amendment by Sarah Kay](https://project.wnyc.org/themostperfectalbum/#amendment-14)
     - [15th Amendment by Aisha Burns](https://project.wnyc.org/themostperfectalbum/#amendment-15)
     - [15th Amendment by Nnamdi Ogbonnaya](https://project.wnyc.org/themostperfectalbum/#amendment-15)
-- Graduate Students: 
+- HIST 5212: 
   - Kidada Williams, ["Maintaining a Radical Vision of African Americans in the Age of Freedom"](https://www.journalofthecivilwarera.org/forum-the-future-of-reconstruction-studies/maintaining-a-radical-vision/) *Journal of the Civil War Era* (March 2017).
 - *Presentation: Caitlin*
 
@@ -175,7 +176,7 @@ permalink: /schedule/
 - Jack Hitt and Chenjerai Kumanyika, ["The Spin"](http://www.gimletmedia.com/uncivil/the-spin#episode-player) (November 8, 2017) from *Uncivil* podcast.
 - ["Frederick Douglass on Remembering the Civil War, 1877"](http://www.americanyawp.com/reader/reconstruction/frederick-douglass-on-remembering-the-civil-war-1877/)
 - Mildred Lewis Rutherford, ["Wrongs of History Righted"](https://archive.org/details/wrongsofhistoryr00ruth/page/n1/mode/2up) (November 13, 1914), p. 3-5, 14-17.
-- Graduate students:
+- HIST 5212:
   - Caroline Janney, [“Prologue”](https://www.dropbox.com/s/f0u9zbqdd79ecgq/9781469607078_janney.4.pdf?dl=0) in *Remembering the Civil War: Reunion and the Limits of Reconciliation* (p. 3-11)
 
 ### The Legacy of the Civil War and Reconstruction
