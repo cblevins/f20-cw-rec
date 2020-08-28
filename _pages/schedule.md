@@ -46,9 +46,9 @@ permalink: /schedule/
 
 **W., 9/2: Sectional Conflict and Western Expansion**
 - **Group B** post questions to `#discussions` channel - include reflections on the process of recording.
-- Erica Armstrong Dunbar, *She Came to Slay* (selections)
+- Erica Armstrong Dunbar, [*She Came to Slay*](http://skyline.ucdenver.edu/record=b4001794~S0) (2019): Introduction (p. xiii-xiv), Part I (p. 3-39), Part II (p. 40-79).
 - Listen to the second half (starting at 14:15 min) of Nick Quah's interview with Catherine Saint Louis: ["What Does a Podcast Editor Do?"](https://omny.fm/shows/servant-of-pod-with-nick-quah/what-does-a-podcast-editor-do), *Servant of Pod* (August 5, 2020).
-- In your podcast pair: record a 30-second introduction to yourselves that includes at least one piece of music or sound effect (this can be as silly or as serious as you like), export it as a .MP3 file, and upload it to the #podcasts Slack channel prior to the start of class. The point of this assignment is to practice the mechanics of recording, editing, and exporting audio.
+- Record a 30-second introduction to yourself using Audacity that includes at least one piece of music or sound effect (this can be as silly or as serious as you like), export it as a .MP3 file, and upload it to the #podcasts Slack channel prior to the start of class. The point of this assignment is to practice the mechanics of recording, editing, and exporting audio.
 - *Presentation: Parker*
 
 ~~**M., 9/7: No Class, Official Holiday**~~
