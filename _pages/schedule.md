@@ -60,10 +60,12 @@ permalink: /schedule/
 
 *Podcast #1 due Friday, September 11th by 11:59PM*
 
+*Peer Review #1 due Sunday, September 13th by 11:59PM*
+
 ### Reacting to the Past: The Fate of John Brown, 1859
 
 **M., 9/14: Set Up Session | Podcast Peer Review**
-- Peer Review #1 must be completed by the start of class (sent over Slack DM to the podcast creators + Professor Blevins)
+- Peer Review #1 must be completed by Sunday, September 13th by 11:59PM (sent over Slack DM to the podcast creators + Professor Blevins)
 - Read *The Fate of John Brown, 1859* Gamebook, Sections 3, 4, 5 and your Role Sheet. Pay particular attention to your goals, when you are required to give your speech, and any special objectives.
 
 **W., 9/16: Session 1**
