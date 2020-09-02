@@ -56,7 +56,7 @@ permalink: /schedule/
 
 **W., 9/9: Abolitionism and the 1850s | Introduction to Reacting to the Past**
 - Read *The Fate of John Brown, 1859* Gamebook, Sections 1, 2.
-- Podcast pairs: complete all of the required readings for Podcast #1 and then write a rough draft of your outline.
+- Complete all of the required readings for Podcast #1 and then write a rough draft of your outline (have this document open for class).
 
 *Podcast #1 due Friday, September 11th by 11:59PM*
 
