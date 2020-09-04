@@ -21,7 +21,7 @@ Podcasts have experienced a surge of popularity in the recent years. During this
 
 ### Peer Review: Podcast #1 (5%)
 
-Each student will provide feedback for TWO other podcasts from the rest of the class using [the same rubric](({{site.baseurl}}/downloads/podcast-rubric.docx)) that I use. I will be assigning podcasts to each student to review. Submit this feedback by sending a DM (direct message) via Slack to the two podcast creators + Professor Blevins.
+Each student will provide feedback for TWO other podcasts from the rest of the class using [the same rubric]({{site.baseurl}}/downloads/podcast-rubric.docx) that I use. I will be assigning podcasts to each student to review. Submit this feedback by sending a DM (direct message) via Slack to the two podcast creators + Professor Blevins.
 
 *Due Sunday, September 13th by 11:59PM*
 
@@ -41,7 +41,7 @@ In your second podcast, you will select a Civil War memorial, statue, or monumen
 
 ### Peer Review: Podcast #2 (5%)
 
-Each student will provide feedback for TWO other podcasts from the rest of the class using [the same rubric](({{site.baseurl}}/downloads/podcast-rubric.docx)) that I use. I will be assigning podcasts to each student to review. Submit this rubric by sending a DM (direct message) via Slack to the two podcast creators + Professor Blevins.
+Each student will provide feedback for TWO other podcasts from the rest of the class using [the same rubric]({{site.baseurl}}/downloads/podcast-rubric.docx) that I use. I will be assigning podcasts to each student to review. Submit this rubric by sending a DM (direct message) via Slack to the two podcast creators + Professor Blevins.
 
 *Due Wednesday, October 21st by 2:30PM (start of class)*
 
