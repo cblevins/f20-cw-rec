@@ -55,8 +55,8 @@ permalink: /schedule/
 - Work on Podcast #1 over the long weekend!
 
 **W., 9/9: Abolitionism and the 1850s | Introduction to Reacting to the Past**
-- Read *The Fate of John Brown, 1859* Gamebook, Sections 1, 2.
-- Complete all of the required readings for Podcast #1 and then write a rough draft of your outline (have this document open for class).
+- Read *The Fate of John Brown, 1859* Gamebook, Sections 1, 2, 3 (p. 1-20) - see class email for link to reading.
+- Complete all of the required readings for Podcast #1 and have a (very rough draft) of your outline.
 
 *Podcast #1 due Friday, September 11th by 11:59PM*
 
