@@ -55,7 +55,7 @@ permalink: /schedule/
 - Work on Podcast #1 over the long weekend!
 
 **W., 9/9: Abolitionism and the 1850s | Introduction to Reacting to the Past**
-- Class is postponed today. Professor Blevins is participating in the [Scholar Strike for Racial Justice](https://www.scholarstrike.com/), a mass action of higher education professionals protesting racist policing, state violence against communities of color, mass incarceration and other manifestations of racism. Instead of class, I will be holding an open forum for students to discuss these issues on our regular Zoom call. Please see class email for more information.
+- Class is postponed today. Professor Blevins is participating in the [Scholar Strike for Racial Justice](https://www.scholarstrike.com/), a mass action of higher education professionals protesting racist policing, state violence against communities of color, mass incarceration and other manifestations of racism. Instead of class, I will be holding an open forum for students to discuss these issues on our regular Zoom call. Please see [this video](https://shorts.flipgrid.com/watch/12525965515423821) and my class-wide email for more information.
 
 *Podcast #1 due Friday, September 11th by 11:59PM*
 
