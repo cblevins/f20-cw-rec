@@ -55,8 +55,7 @@ permalink: /schedule/
 - Work on Podcast #1 over the long weekend!
 
 **W., 9/9: Abolitionism and the 1850s | Introduction to Reacting to the Past**
-- Read *The Fate of John Brown, 1859* Gamebook, Sections 1, 2, 3 (p. 1-20) - see class email for link to reading.
-- Complete all of the required readings for Podcast #1 and have a (very rough draft) of your outline.
+- Class is postponed today. Professor Blevins is participating in the [Scholar Strike for Racial Justice](https://www.scholarstrike.com/), a mass action of higher education professionals protesting racist policing, state violence against communities of color, mass incarceration and other manifestations of racism. Instead of class, I will be holding an open forum for students to discuss these issues on our regular Zoom call. Please see class email for more information.
 
 *Podcast #1 due Friday, September 11th by 11:59PM*
 
@@ -64,35 +63,35 @@ permalink: /schedule/
 
 ### Reacting to the Past: The Fate of John Brown, 1859
 
-**M., 9/14: Set Up Session | Podcast Peer Review**
+**M., 9/14: Abolitionism and the 1850s | Introduction to Reacting to the Past**
 - Peer Review #1 must be completed by Sunday, September 13th by 11:59PM (sent over Slack DM to the podcast creators + Professor Blevins)
-- Read *The Fate of John Brown, 1859* Gamebook, Sections 3, 4, 5 and your Role Sheet. Pay particular attention to your goals, when you are required to give your speech, and any special objectives.
+- Read *The Fate of John Brown, 1859* Gamebook, Sections 1, 2, 3 (p. 1-20) - see class email for link to reading.
 
-**W., 9/16: Session 1**
-- Read your assigned Core Texts for your role (see Role Sheet)
-- Prepare Session 1 Speeches (see Role Sheet)
+**W., 9/16: Set-Up Session**
+- Read *The Fate of John Brown, 1859* Gamebook, Sections 4, 5 and your Role Sheet. Pay particular attention to your goals, when you are required to give your speech, and any special objectives.
 - Change your Slack profile to the name of your Role
 
-**M., 9/21: Session 2**
-- Prepare Session 2 Speeches (see Role Sheet)
+**M., 9/21: Session 1**
+- Read your assigned Core Texts for your role (see Role Sheet)
+- Prepare Session 1 Speeches (see Role Sheet)
 
-**W., 9/23: Debrief | Lincoln and the Election of 1860**
-- [The Lincoln-Douglas Debates (1858) (selections)](https://www.dropbox.com/s/mlx9h2lw2o96uef/LincolnDouglassDebates_1858.pdf?dl=0)
-- [Republican Party Platform (1860)](http://www.americanyawp.com/reader/the-sectional-crisis/south-carolina-declaration-of-secession-1860/)
+**W., 9/23: Session 2**
+- Prepare Session 2 Speeches (see Role Sheet)
 
 *Written Reflection for John Brown, 1859 due Friday, September 26th by 11:59PM.*
 
 ### The War
 
-**M., 9/28: War Begins | 1861**
+**M., 9/28: *John Brown, 1859* Debrief | War Begins, 1860-1861**
 - **Group A** post questions to `#discussions` channel
 - Watch Ken Burns, *The Civil War*, [Episode 1](https://aurarialibrary.idm.oclc.org/login?url=https://fod.infobase.com/PortalPlaylists.aspx?wID=102100&xtid=40977) (selections)
+- [The Lincoln-Douglas Debates (1858) (selections)](https://www.dropbox.com/s/mlx9h2lw2o96uef/LincolnDouglassDebates_1858.pdf?dl=0)
+- [Republican Party Platform (1860)](http://www.americanyawp.com/reader/the-sectional-crisis/south-carolina-declaration-of-secession-1860/)
 - [Mississippi Ordinance of Secession (1861) (selections)](https://www.dropbox.com/s/lgmv9f4uxnp4vcl/MississippiOrdinanceOfSecession_1861.pdf?dl=0)
 
 **W., 9/30: Why They Fought | 1861-1862**
 - **Group B** post questions to `#discussions` channel
 - Watch Ken Burns, *The Civil War*, [Episode 2](https://aurarialibrary.idm.oclc.org/login?url=https://fod.infobase.com/PortalPlaylists.aspx?wID=102100&xtid=40978) (selections)
-- Listen to second half (starting at 14:40) of Nick Quah interview with Catherine Saint Louis, ["What Does a Podcast Editor Do?"](https://omny.fm/shows/servant-of-pod-with-nick-quah/what-does-a-podcast-editor-do?t=880) *Servant of Pod* (August 5, 2020).
 
 **M., 10/5: Emancipation: Who Freed the Slaves? | 1862-1863**
 - **Group A** post questions to `#discussions` channel

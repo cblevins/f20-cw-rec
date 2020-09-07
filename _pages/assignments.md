@@ -29,7 +29,7 @@ Each student will provide feedback for TWO other podcasts from the rest of the c
 
 You will be conducting a historical simulation, *The Fate of John Brown, 1859*, during two class periods in September. The simulation is set within a Virginia courthouse in 1859, and each student will take on the persona of a historical figure from that time as they hold a "conference" to decide the fate of John Brown following his raid on Harpers Ferry. You will be evaluated on two components: your participation during the simulation (including a short formal speech) and a retrospective essay on the experience. More details will be distributed prior to the start of the simulation.
 
-*Speech due in class either Wednesday, September 16th or Monday, September 21st.*
+*Speech due in class either Monday, September 21st or Wednesday, September 23rd*
 
 *Written Reflection due Friday, September 26th by 11:59AM.*
 
