@@ -27,7 +27,7 @@ In addition to the recording, you should submit a a **detailed outline** of your
 
 **If you are working in a pair:** both people need to speak during the podcast, but it is up to you how to divide the speaking time. You are responsible for making sure the overall labor is shared evenly (ie. one person is responsible for recording and editing, the other does more speaking or writes the outline). *At the bottom of your outline, include a short description of how you divided the work.*
 
-Each episode should be submitted as follows to [this Dropbox link](comingsoon):
+Each episode should be submitted as follows to [this Dropbox link](https://www.dropbox.com/request/WFoXpny3W0M4hGNw2XiE):
 
 1. Podcast in MP3 format (<50MB file size) with the file named: either `StudentLastName-podcast-1.mp3` (ex. `Blevins-podcast-1.mp3`). or `Student1LastName-Student2LastName-podcast-1.mp3` (ex. `Blevins-Ronaldo-podcast-1.mp3`).
 2. A Word document containing the written outline of your episode, named using the same format as your MP3 file.
