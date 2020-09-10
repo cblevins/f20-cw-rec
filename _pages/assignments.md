@@ -21,7 +21,7 @@ Podcasts have experienced a surge of popularity in the recent years. During this
 
 ### Peer Review: Podcast #1 (5%)
 
-Each student will provide feedback for TWO other podcasts from the rest of the class using [the same rubric]({{site.baseurl}}/downloads/podcast-rubric.docx) that I use. I will be assigning podcasts to each student to review. Submit this feedback by sending a DM (direct message) via Slack to the two podcast creators + Professor Blevins.
+Each student will provide feedback for TWO other podcasts from the rest of the class using [the same rubric]({{site.baseurl}}/downloads/podcast-rubric-blank.docx) that I use. I will be assigning podcasts to each student to review. Submit this feedback by sending a DM (direct message) via Slack to the two podcast creators + Professor Blevins. See class email for more specific instructions.
 
 *Due Sunday, September 13th by 11:59PM*
 
