@@ -78,7 +78,7 @@ permalink: /schedule/
 **W., 9/23: Session 2**
 - Prepare Session 2 Speeches (see Role Sheet)
 
-*Written Reflection for John Brown, 1859 due Friday, September 26th by 11:59PM.*
+*Written Reflection for John Brown, 1859 due Friday, September 25th by 11:59PM.*
 
 ### The War
 
