@@ -31,7 +31,7 @@ You will be conducting a historical simulation, *The Fate of John Brown, 1859*, 
 
 *Speech due in class either Monday, September 21st or Wednesday, September 23rd*
 
-*Written Reflection due Friday, September 26th by 11:59AM.*
+*Written Reflection due Friday, September 26th by 11:59AM, submitted to [this Dropbox link](https://www.dropbox.com/request/064JQos1brHDgNoLZpxP).*
 
 ### Podcast #2: Civil War Memorial (15%)
 
