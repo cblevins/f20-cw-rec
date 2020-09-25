@@ -92,7 +92,7 @@ permalink: /schedule/
 **W., 9/30: Why They Fought | 1861-1862**
 - **Group B** post questions to `#discussions` channel
 - Joanna Cohen, ["'You Have No Flag Out Yet?' Commercial Connections and Patriotic Emotion in the Civil War North"](https://www.dropbox.com/s/1unmirokiq6ob9c/Cohen_%E2%80%9CYou%20Have%20No%20Flag%20Out%20Yet%3F%E2%80%9D%20Commercial%20Connections%20and%20Patriotic%20Emotion%20in%20the%20Civil%20War%20North.pdf?dl=0), *Journal of the Civil War Era*, Volume 9, Number 3, September 2019, pp. 378-409.
-- Your goal is to answer the question, "Why did Confederate soldiers fight in the Civil War?" using a single collection of [digitized letters](https://valley.lib.virginia.edu/VoS/personalpapers/documents/augusta/p2dedrickletters.html) exchanged by the Virginian couple Henry and Mary Dedlick. Set a timer for 20 minutes and skim/read as many of their letters as possible while jotting down notes on any clues that might help you answer this question.
+- Your goal is to answer the question, "Why did Confederate soldiers fight in the Civil War?" using a single collection of [digitized letters](https://valley.lib.virginia.edu/VoS/personalpapers/documents/augusta/p2dedrickletters.html) exchanged by the Virginian couple Henry and Mary Dedlick. Set a timer for 15 minutes and skim/read as many of their letters as possible while jotting down notes on any clues that might help you answer this question.
 
 **M., 10/5: Emancipation: Who Freed the Slaves? | 1862-1863**
 - **Group A** post questions to `#discussions` channel
