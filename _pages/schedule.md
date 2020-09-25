@@ -84,14 +84,15 @@ permalink: /schedule/
 
 **M., 9/28: *John Brown, 1859* Debrief | War Begins, 1860-1861**
 - **Group A** post questions to `#discussions` channel
-- Watch Ken Burns, *The Civil War*, [Episode 1](https://aurarialibrary.idm.oclc.org/login?url=https://fod.infobase.com/PortalPlaylists.aspx?wID=102100&xtid=40977) (selections)
+- Watch Ken Burns, *The Civil War*, [Episode 1](https://aurarialibrary.idm.oclc.org/login?url=https://fod.infobase.com/PortalPlaylists.aspx?wID=102100&xtid=40977), segments 1-9 (min. 0:00-10:30) & segment 45 (1:31:00-1:35:00)
 - [The Lincoln-Douglas Debates (1858) (selections)](https://www.dropbox.com/s/mlx9h2lw2o96uef/LincolnDouglassDebates_1858.pdf?dl=0)
 - [Republican Party Platform (1860)](http://www.americanyawp.com/reader/the-sectional-crisis/south-carolina-declaration-of-secession-1860/)
 - [Mississippi Ordinance of Secession (1861) (selections)](https://www.dropbox.com/s/lgmv9f4uxnp4vcl/MississippiOrdinanceOfSecession_1861.pdf?dl=0)
 
 **W., 9/30: Why They Fought | 1861-1862**
 - **Group B** post questions to `#discussions` channel
-- Watch Ken Burns, *The Civil War*, [Episode 2](https://aurarialibrary.idm.oclc.org/login?url=https://fod.infobase.com/PortalPlaylists.aspx?wID=102100&xtid=40978) (selections)
+- Joanna Cohen, ["'You Have No Flag Out Yet?' Commercial Connections and Patriotic Emotion in the Civil War North"](https://www.dropbox.com/s/1unmirokiq6ob9c/Cohen_%E2%80%9CYou%20Have%20No%20Flag%20Out%20Yet%3F%E2%80%9D%20Commercial%20Connections%20and%20Patriotic%20Emotion%20in%20the%20Civil%20War%20North.pdf?dl=0), *Journal of the Civil War Era*, Volume 9, Number 3, September 2019, pp. 378-409.
+- Your goal is to answer the question, "Why did Confederate soldiers fight in the Civil War?" using a single collection of [digitized letters](https://valley.lib.virginia.edu/VoS/personalpapers/documents/augusta/p2dedrickletters.html) exchanged by the Virginian couple Henry and Mary Dedlick. Set a timer for 20 minutes and skim/read as many of their letters as possible while jotting down notes on any clues that might help you answer this question.
 
 **M., 10/5: Emancipation: Who Freed the Slaves? | 1862-1863**
 - **Group A** post questions to `#discussions` channel
