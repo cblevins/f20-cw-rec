@@ -115,6 +115,7 @@ permalink: /schedule/
 **W., 10/14: The Wider World of War | 1863-1864**
 - **Group B** post questions to `#discussions` channel
 - [Layli Long Soldier reading of “38"](https://www.youtube.com/watch?v=MoRRBwQbd2E) (poem from her collection *WHEREAS*) [[text of poem](https://onbeing.org/blog/layli-long-soldier-38/)]
+- Megan Kate Nelson, ["Americans Need to Know the Hard Truth About Union Monuments in the West"](https://www.theatlantic.com/ideas/archive/2020/07/how-union-promoted-white-supremacy-west/613918/), *The Atlantic* (July 10, 2020). 
 - Come to class with an outline of your podcast and at least *two sources*.
 - HIST 5212:
   - Stacey Smith, ["Beyond North and South Putting the West in the Civil War and Reconstruction"](https://www.dropbox.com/s/vw14qhuuejttw9q/Smith_Beyond_North_and_South_putting.PDF?dl=0) *Journal of the Civil War Era* (December 2016).
