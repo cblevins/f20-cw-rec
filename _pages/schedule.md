@@ -106,7 +106,6 @@ permalink: /schedule/
 - Jack Hitt and Chenjerai Kumanyika, ["The Ring"](https://www.gimletmedia.com/uncivil/the-ring) (November 9, 2017) from *Uncivil* podcast.
 - Stephanie McCurry, ["The Confederacy Was an Antidemocratic, Centralized State"](https://www.theatlantic.com/ideas/archive/2020/06/confederacy-wasnt-what-you-think/613309/), *The Atlantic* (June 21, 2020).
 - Come to class with *two ideas* for Podcast #2 and be ready to give a 30-second "elevator pitch" for each of them.
-- *Presentation: Amy*
 
 **M., 10/12: Turning Points | The Summer of 1863**
 - **Group A** post questions to `#discussions` channel
