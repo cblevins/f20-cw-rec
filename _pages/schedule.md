@@ -118,7 +118,7 @@ permalink: /schedule/
 - Megan Kate Nelson, ["Americans Need to Know the Hard Truth About Union Monuments in the West"](https://www.theatlantic.com/ideas/archive/2020/07/how-union-promoted-white-supremacy-west/613918/), *The Atlantic* (July 10, 2020). 
 - Come to class with an outline of your podcast and at least *two sources*.
 - HIST 5212:
-  - Stacey Smith, ["Beyond North and South Putting the West in the Civil War and Reconstruction"](https://www.dropbox.com/s/vw14qhuuejttw9q/Smith_Beyond_North_and_South_putting.PDF?dl=0) *Journal of the Civil War Era* (December 2016).
+  - Stacey Smith, ["Beyond North and South: Putting the West in the Civil War and Reconstruction"](https://www.dropbox.com/s/vw14qhuuejttw9q/Smith_Beyond_North_and_South_putting.PDF?dl=0) *Journal of the Civil War Era* (December 2016).
 - *Presentation: Anna*
 
 *Podcast #2 Due Sunday, 10/18, by 11:59PM*
