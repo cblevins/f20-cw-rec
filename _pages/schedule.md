@@ -109,7 +109,7 @@ permalink: /schedule/
 
 **M., 10/12: Turning Points | The Summer of 1863**
 - **Group A** post questions to `#discussions` channel
-- Watch film *Glory* (1989). Available on Amazon, iTunes, YouTube, Google Play, Microsoft. 
+- Watch film *Glory* (1989). Available on Netflix, Amazon, iTunes, YouTube, Google Play, Microsoft. 
 - *Presentation: Jeffrey*
 
 **W., 10/14: The Wider World of War | 1863-1864**

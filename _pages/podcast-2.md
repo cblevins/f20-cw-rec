@@ -21,6 +21,4 @@ Each episode should be submitted as follows to [this Dropbox link](https://www.d
 1. Podcast in MP3 format (<50MB file size) with the file named: `StudentLastName-podcast-2.mp3` (ex. `Blevins-podcast-2.mp3`).
 2. Word document of: a) the written outline of your episode, and b) the Works Cited containing sources you consulted for your episode. The file should be named: `StudentLastName-podcast-2.docx` (ex. `Blevins-podcast-2.docx`).
 
-I will be evaluating your podcasts using [this rubric.](({{site.baseurl}}/downloads/podcast-rubric.docx).)
-
-*Due Sunday, October 18th by 11:59AM*
+I will be evaluating your podcasts using [this rubric]({{site.baseurl}}/downloads/podcast-rubric-blank.docx).
