@@ -140,7 +140,7 @@ permalink: /schedule/
 
 **M., 10/26: A Moment of Possibility**
 - **Group A** post questions to `#discussions` channel
-- [Letter from Jourdan Anderson to P. H. Anderson, 1865](https://www.dropbox.com/s/hpgbpioy7a3zt1f/JourdanAnderson_1865.docx?dl=0)
+- Caroline E. Janney, ["Free to Go Where We Liked: The Army of Northern Virginia after Appomattox"](https://link.gale.com/apps/doc/A574055988/EAIM?u=auraria_main&sid=EAIM&xid=78041441) *Journal of the Civil War Era* (March 2019).
 - Frances Ellen Watkins Harper, ["We Are All Bound Up Together,"](https://awpc.cattcenter.iastate.edu/2017/03/21/we-are-all-bound-up-together-may-1866/) speech delivered at the Eleventh National Women's Rights Convention, May 1, 1866.
 - HIST 5212: 
   - Carole Emberton, “Unwriting the Freedom Narrative" *The Journal of Southern History* (May 2016).
@@ -151,7 +151,7 @@ permalink: /schedule/
 
 **M., 11/2: Revolution and Counterrevolution**
 - **Group A** post questions to `#discussions` channel
-- Kidada Williams, ["The Psychic Toll of Night Rides"](https://slate.com/human-interest/2018/03/the-psychological-impact-of-ku-klux-klan-night-rides.html) *Slate* (March 1, 2018)
+- Catherine A. Jones, ["The Trials of Mary Booth and the Post–Civil War Incarceration of African American Children"](https://muse-jhu-edu.aurarialibrary.idm.oclc.org/article/763524), *Journal of the Civil War Era* (September 2020).
 - Listen to:
     - [13th Amendment by Kash Doll (feat. Ant Clemons, Andre “Dre” Harris)](https://project.wnyc.org/themostperfectalbum/#amendment-13)
     - [13th Amendment by Bette Smith](https://project.wnyc.org/themostperfectalbum/#amendment-13)
