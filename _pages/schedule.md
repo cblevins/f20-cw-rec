@@ -127,6 +127,7 @@ permalink: /schedule/
 - **Group A** post questions to `#discussions` channel
 - Jack Hitt and Chenjerai Kumanyika, ["The Soldiers"](https://gimletmedia.com/shows/uncivil/39h3wv/the-soldiers) (November 1, 2017) from *Uncivil* podcast.
 - Dillon Carroll, ["Civil War Soldiers’ Wet Dreams"](https://nursingclio.org/2017/11/01/civil-war-soldiers-wet-dreams/) *Nursing Clio* (November 1, 2017).
+- Watch Ken Burns, *The Civil War*, [Episode 7](https://aurarialibrary.idm.oclc.org/login?url=https://fod.infobase.com/PortalPlaylists.aspx?wID=102100&xtid=40983), Segment 1 (0:10-1:02) & Segment 6 (10:22-14:13)
 - *Presentation: TJ*
 
 *Peer Review of Podcast #2 Due Wednesday, October 21st by 2:30PM (start of class)*
