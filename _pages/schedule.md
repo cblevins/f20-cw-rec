@@ -154,8 +154,8 @@ permalink: /schedule/
 - **Group A** post questions to `#discussions` channel
 - Catherine A. Jones, ["The Trials of Mary Booth and the Post–Civil War Incarceration of African American Children"](https://muse-jhu-edu.aurarialibrary.idm.oclc.org/article/763524), *Journal of the Civil War Era* (September 2020).
 - Listen to:
-    - [13th Amendment by Kash Doll (feat. Ant Clemons, Andre “Dre” Harris)](https://project.wnyc.org/themostperfectalbum/#amendment-13)
-    - [13th Amendment by Bette Smith](https://project.wnyc.org/themostperfectalbum/#amendment-13)
+<!---    - [13th Amendment by Kash Doll (feat. Ant Clemons, Andre “Dre” Harris)](https://project.wnyc.org/themostperfectalbum/#amendment-13)
+    - [13th Amendment by Bette Smith](https://project.wnyc.org/themostperfectalbum/#amendment-13) --->
     - [14th Amendment by Sarah Kay](https://project.wnyc.org/themostperfectalbum/#amendment-14)
     - [15th Amendment by Aisha Burns](https://project.wnyc.org/themostperfectalbum/#amendment-15)
     - [15th Amendment by Nnamdi Ogbonnaya](https://project.wnyc.org/themostperfectalbum/#amendment-15)
@@ -172,7 +172,7 @@ permalink: /schedule/
   - Fay Yarbrough, [“’Dis Land Which Jines Dat of Ole Master’s’:  The Meaning of Citizenship for the Choctaw Freedpeople”](https://www.dropbox.com/s/9uec4ekqr15jspw/j.ctt13x1gqn.15.pdf?dl=0) (p. 224-241).
 - Graduate: 
   - Elliott West, ["Reconstructing Race"](https://www.dropbox.com/s/lbxkmoeysn1b1as/West_ReconstructingRace.pdf?dl=0) *Western Historical Quarterly* (Spring 2003).
-  - Optional: Catherine Jones, "Women, Gender, and the Boundaries of Reconstruction," *The Journal of the Civil War Era* (March 2018).
+  - Optional: Catherine Jones, ["Women, Gender, and the Boundaries of Reconstruction,"](https://link.gale.com/apps/doc/A524380337/EAIM?u=auraria_main&sid=EAIM&xid=fc25c22b) *The Journal of the Civil War Era* (March 2018).
 
 **M., 11/9: The End of Reconstruction**
 - **Group A** post questions to `#discussions` channel
