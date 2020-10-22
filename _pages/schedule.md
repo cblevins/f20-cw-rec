@@ -144,7 +144,7 @@ permalink: /schedule/
 - Caroline E. Janney, ["Free to Go Where We Liked: The Army of Northern Virginia after Appomattox"](https://link.gale.com/apps/doc/A574055988/EAIM?u=auraria_main&sid=EAIM&xid=78041441) *Journal of the Civil War Era* (March 2019).
 - Frances Ellen Watkins Harper, ["We Are All Bound Up Together,"](https://awpc.cattcenter.iastate.edu/2017/03/21/we-are-all-bound-up-together-may-1866/) speech delivered at the Eleventh National Women's Rights Convention, May 1, 1866.
 - HIST 5212: 
-  - Carole Emberton, “Unwriting the Freedom Narrative" *The Journal of Southern History* (May 2016).
+  - Carole Emberton, ["Unwriting the Freedom Narrative"](https://link.gale.com/apps/doc/A452881814/WHIC?u=auraria_main&sid=WHIC&xid=c415eadf) *The Journal of Southern History* (May 2016).
 
 **W., 10/28: The Second American Revolution**
 - **Group B** post questions to `#discussions` channel
