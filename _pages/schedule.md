@@ -154,8 +154,6 @@ permalink: /schedule/
 - **Group A** post questions to `#discussions` channel
 - Catherine A. Jones, ["The Trials of Mary Booth and the Post–Civil War Incarceration of African American Children"](https://muse-jhu-edu.aurarialibrary.idm.oclc.org/article/763524), *Journal of the Civil War Era* (September 2020).
 - Listen to:
-<!---    - [13th Amendment by Kash Doll (feat. Ant Clemons, Andre “Dre” Harris)](https://project.wnyc.org/themostperfectalbum/#amendment-13)
-    - [13th Amendment by Bette Smith](https://project.wnyc.org/themostperfectalbum/#amendment-13) --->
     - [14th Amendment by Sarah Kay](https://project.wnyc.org/themostperfectalbum/#amendment-14)
     - [15th Amendment by Aisha Burns](https://project.wnyc.org/themostperfectalbum/#amendment-15)
     - [15th Amendment by Nnamdi Ogbonnaya](https://project.wnyc.org/themostperfectalbum/#amendment-15)
