@@ -180,12 +180,12 @@ permalink: /schedule/
 - HIST 5212:
   - Caroline Janney, [“Prologue”](https://www.dropbox.com/s/f0u9zbqdd79ecgq/9781469607078_janney.4.pdf?dl=0) in *Remembering the Civil War: Reunion and the Limits of Reconciliation* (p. 3-11)
 
-### The Legacy of the Civil War and Reconstruction
-
 **W., 11/11: Reunion and Memory**
 - **Group B** post questions to `#discussions` channel
 - Watch documentary ["Birth of a Movement"](https://aurarialibrary.idm.oclc.org/login?url=https://fod.infobase.com/PortalPlaylists.aspx?wID=102100&xtid=151251) (2017) by Susan Gray and Bestor Cram (54 min.)
 - Come to class with an “elevator pitch” for your final project.
+
+### The Legacy of the Civil War and Reconstruction
 
 **M., 11/16: Jim Crow and "Second Reconstruction"**
 - **Group A** post questions to `#discussions` channel
