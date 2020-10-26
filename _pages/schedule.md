@@ -148,7 +148,7 @@ permalink: /schedule/
 
 **W., 10/28: The Second American Revolution**
 - **Group B** post questions to `#discussions` channel
-- Watch [Part 1, Hour 1](https://www.pbs.org/weta/reconstruction/episodes/hour-one/) of *Reconstruction: America After the Civil War*, *PBS* (2019).
+- Watch [Part 1, Hour 1](https://fod-infobase-com.aurarialibrary.idm.oclc.org/p_ViewVideo.aspx?xtid=188580) of *Reconstruction: America After the Civil War*, *PBS* (2019).
 
 **M., 11/2: Revolution and Counterrevolution**
 - **Group A** post questions to `#discussions` channel
