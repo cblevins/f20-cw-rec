@@ -175,15 +175,13 @@ permalink: /schedule/
 **M., 11/9: The End of Reconstruction**
 - **Group A** post questions to `#discussions` channel
 - Jack Hitt and Chenjerai Kumanyika, ["The Spin"](http://www.gimletmedia.com/uncivil/the-spin#episode-player) (November 8, 2017) from *Uncivil* podcast.
-- ["Frederick Douglass on Remembering the Civil War, 1877"](http://www.americanyawp.com/reader/reconstruction/frederick-douglass-on-remembering-the-civil-war-1877/)
 - Mildred Lewis Rutherford, ["Wrongs of History Righted"](https://archive.org/details/wrongsofhistoryr00ruth/page/n1/mode/2up) (November 13, 1914), p. 3-5, 14-17.
-- HIST 5212:
-  - Caroline Janney, [“Prologue”](https://www.dropbox.com/s/f0u9zbqdd79ecgq/9781469607078_janney.4.pdf?dl=0) in *Remembering the Civil War: Reunion and the Limits of Reconciliation* (p. 3-11)
+- Come to class with an “elevator pitch” for your final project.
 
 **W., 11/11: Reunion and Memory**
 - **Group B** post questions to `#discussions` channel
+- Caroline Janney, [“Prologue”](https://www.dropbox.com/s/f0u9zbqdd79ecgq/9781469607078_janney.4.pdf?dl=0) in *Remembering the Civil War: Reunion and the Limits of Reconciliation* (p. 3-11)
 - Watch documentary ["Birth of a Movement"](https://aurarialibrary.idm.oclc.org/login?url=https://fod.infobase.com/PortalPlaylists.aspx?wID=102100&xtid=151251) (2017) by Susan Gray and Bestor Cram (54 min.)
-- Come to class with an “elevator pitch” for your final project.
 
 ### The Legacy of the Civil War and Reconstruction
 
