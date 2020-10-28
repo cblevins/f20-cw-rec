@@ -110,7 +110,6 @@ permalink: /schedule/
 **M., 10/12: Turning Points | The Summer of 1863**
 - **Group A** post questions to `#discussions` channel
 - Watch film *Glory* (1989). Available on Netflix, Amazon, iTunes, YouTube, Google Play, Microsoft. 
-- *Presentation: Jeffrey*
 
 **W., 10/14: The Wider World of War | 1863-1864**
 - **Group B** post questions to `#discussions` channel
@@ -177,6 +176,7 @@ permalink: /schedule/
 - Jack Hitt and Chenjerai Kumanyika, ["The Spin"](http://www.gimletmedia.com/uncivil/the-spin#episode-player) (November 8, 2017) from *Uncivil* podcast.
 - Mildred Lewis Rutherford, ["Wrongs of History Righted"](https://archive.org/details/wrongsofhistoryr00ruth/page/n1/mode/2up) (November 13, 1914), p. 3-5, 14-17.
 - Come to class with an “elevator pitch” for your final project.
+- *Presentation: Jeffrey*
 
 **W., 11/11: Reunion and Memory**
 - **Group B** post questions to `#discussions` channel
