@@ -161,7 +161,6 @@ permalink: /schedule/
 - *Presentation: Caitlin*
 
 **W., 11/4: Greater Reconstruction**
-- **Group B** post questions to `#discussions` channel
 - Read ONE of the following articles from Adam Arenson and Andrew Greybill, eds. *Civil War Wests* (assigned in class on Monday) and be prepared to "teach" it to your classmates:
   - Martha Sandweiss, [“Still Picture, Moving Stories: Reconstruction Comes to Indian Country”](https://www.dropbox.com/s/acmgrnwpedhrv7d/j.ctt13x1gqn.12.pdf?dl=0) (p. 158–178).
   - Joshua Paddison, ["Race, Religion, and Naturalization: How the West Shaped Citizenship Debates in the Reconstruction Congress"](https://www.dropbox.com/s/y6stog7lo0qfqhw/j.ctt13x1gqn.13.pdf?dl=0) (p. 181–201).
@@ -172,25 +171,25 @@ permalink: /schedule/
   - Optional: Catherine Jones, ["Women, Gender, and the Boundaries of Reconstruction,"](https://link.gale.com/apps/doc/A524380337/EAIM?u=auraria_main&sid=EAIM&xid=fc25c22b) *The Journal of the Civil War Era* (March 2018).
 
 **M., 11/9: The End of Reconstruction**
-- **Group A** post questions to `#discussions` channel
+- **Group B** post questions to `#discussions` channel
 - Jack Hitt and Chenjerai Kumanyika, ["The Spin"](http://www.gimletmedia.com/uncivil/the-spin#episode-player) (November 8, 2017) from *Uncivil* podcast.
 - Mildred Lewis Rutherford, ["Wrongs of History Righted"](https://archive.org/details/wrongsofhistoryr00ruth/page/n1/mode/2up) (November 13, 1914), p. 3-5, 14-17.
 - Come to class with an “elevator pitch” for your final project.
 - *Presentation: Jeffrey*
 
 **W., 11/11: Reunion and Memory**
-- **Group B** post questions to `#discussions` channel
+- **Group A** post questions to `#discussions` channel
 - Caroline Janney, [“Prologue”](https://www.dropbox.com/s/f0u9zbqdd79ecgq/9781469607078_janney.4.pdf?dl=0) in *Remembering the Civil War: Reunion and the Limits of Reconciliation* (p. 3-11)
 - Watch documentary ["Birth of a Movement"](https://aurarialibrary.idm.oclc.org/login?url=https://fod.infobase.com/PortalPlaylists.aspx?wID=102100&xtid=151251) (2017) by Susan Gray and Bestor Cram (54 min.)
 
 ### The Legacy of the Civil War and Reconstruction
 
 **M., 11/16: Jim Crow and "Second Reconstruction"**
-- **Group A** post questions to `#discussions` channel
+- **Group B** post questions to `#discussions` channel
 - Vann R. Newkirk II, ["The Great Land Theft"](https://www.theatlantic.com/magazine/archive/2019/09/this-land-was-our-land/594742/) *The Atlantic* (September 2019).
 
 **W., 11/18: Reparations**
-- **Group B** post questions to `#discussions` channel
+- **Groups A and B** post questions to `#discussions` channel
 - Nikole Hannah-Jones, [“What is Owed"](https://www.nytimes.com/interactive/2020/06/24/magazine/reparations-slavery.html) *New York Times Magazine* (June 30, 2020).
 
 ~~**M., 11/23:** No Class, Thanksgiving Break~~
