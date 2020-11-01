@@ -153,9 +153,9 @@ permalink: /schedule/
 - **Group A** post questions to `#discussions` channel
 - Catherine A. Jones, ["The Trials of Mary Booth and the Post–Civil War Incarceration of African American Children"](https://muse-jhu-edu.aurarialibrary.idm.oclc.org/article/763524), *Journal of the Civil War Era* (September 2020).
 - Listen to:
-    - [14th Amendment by Sarah Kay](https://project.wnyc.org/themostperfectalbum/#amendment-14)
-    - [15th Amendment by Aisha Burns](https://project.wnyc.org/themostperfectalbum/#amendment-15)
-    - [15th Amendment by Nnamdi Ogbonnaya](https://project.wnyc.org/themostperfectalbum/#amendment-15)
+    - [14th Amendment by Sarah Kay](https://project.wnyc.org/themostperfectalbum/#amendment-14) [[transcript](https://www.wnycstudios.org/podcasts/radiolabmoreperfect/articles/lyrics-14th-amendment-sarah-kay)]
+    - [15th Amendment by Aisha Burns](https://project.wnyc.org/themostperfectalbum/#amendment-15) [[transcript](https://www.wnycstudios.org/podcasts/radiolabmoreperfect/articles/lyrics-15th-amendment-aisha-burns)]
+    - [15th Amendment by Nnamdi Ogbonnaya](https://project.wnyc.org/themostperfectalbum/#amendment-15) [[transcript](https://www.wnycstudios.org/podcasts/radiolabmoreperfect/articles/lyrics-15th-amendment-nnamdi-ogbonnaya)]
 - HIST 5212: 
   - Kidada Williams, ["Maintaining a Radical Vision of African Americans in the Age of Freedom"](https://www.journalofthecivilwarera.org/forum-the-future-of-reconstruction-studies/maintaining-a-radical-vision/) *Journal of the Civil War Era* (March 2017).
 - *Presentation: Caitlin*
