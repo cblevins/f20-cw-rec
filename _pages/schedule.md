@@ -197,7 +197,7 @@ permalink: /schedule/
 ~~**W., 11/25:** No Class, Thanksgiving Break~~
 
 **M., 11/30: Project Presentations**
-- Prepare a "Work in Progress" of your final project to present in class. You should give a *short* verbal overview of the topic, demo its format (ex. playing one minute of your podcast that you've recorded, a clip of a video, showing a page from your website, etc.), and discuss challenges or anything you would like feedback on from your classmates.
+- Prepare a "Work in Progress" of your final project to present in class. You should give a *short* verbal overview of the topic, demo its format (ex. play a 30-second audio or video clip that you've produced, share your screen to show a page from your website, etc.), and discuss challenges or anything you would like feedback on from your classmates.
 
 **W., 12/2: Wrap Up**
 - TBD
