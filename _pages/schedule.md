@@ -189,7 +189,7 @@ permalink: /schedule/
 - Vann R. Newkirk II, ["The Great Land Theft"](https://www.theatlantic.com/magazine/archive/2019/09/this-land-was-our-land/594742/) *The Atlantic* (September 2019).
 
 **W., 11/18: Reparations**
-- **Groups A and B** post questions to `#discussions` channel
+- **Groups A AND B** post questions to `#discussions` channel
 - Nikole Hannah-Jones, [“What is Owed"](https://www.nytimes.com/interactive/2020/06/24/magazine/reparations-slavery.html) *New York Times Magazine* (June 30, 2020).
 
 ~~**M., 11/23:** No Class, Thanksgiving Break~~
@@ -197,9 +197,9 @@ permalink: /schedule/
 ~~**W., 11/25:** No Class, Thanksgiving Break~~
 
 **M., 11/30: Project Presentations**
-- *Rough Draft of project due Monday, November 30th by 2:30PM.*
+- Prepare a "Work in Progress" of your final project to present in class. You should give a *short* verbal overview of the topic, demo its format (ex. playing one minute of your podcast that you've recorded, a clip of a video, showing a page from your website, etc.), and discuss challenges or anything you would like feedback on from your classmates.
 
-**W., 12/2: Project Presentations | Wrap Up**
+**W., 12/2: Wrap Up**
 - TBD
 
 *Final version of project due Sunday December 6th by 11:59PM.*

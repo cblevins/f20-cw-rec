@@ -47,10 +47,10 @@ Each student will provide feedback for TWO other podcasts from the rest of the c
 
 ### Digital Media Project (25%)
 
-In your final project, you will be creating a historical interpretation or narrative that focuses on how a specific dimension, event, person, etc. of the Civil War and Reconstruction era has been remembered and its impact on the present-day United States. This must be conveyed through some sort of digital media: a podcast episode, video, animated film, 3D virtual reconstruction, online map, game, etc. Regardless of the format, the key requirement is that you must engage in an analysis of your topic that is: a) substantively researched and contextualized, b) clearly and compellingly communicated, and c) supported by historical evidence. You can work individually or in small groups to complete this project.
+In your final project, you will be creating a historical interpretation or narrative that focuses on how a specific dimension, event, person, etc. of the Civil War and Reconstruction era has been remembered and its impact on the present-day United States. This must be conveyed through some sort of digital media: a podcast episode, video, animated film, 3D virtual reconstruction, online map, game, etc. Regardless of the format, the key requirement is that you must engage in an analysis of your topic that is: a) substantively researched and contextualized, b) clearly and compellingly communicated, and c) supported by historical evidence. You can work individually or in small groups to complete this project. Regardless of the format, you need to submit a Word document named `StudentLastName-final-project.docx` that includes a 400-500 word reflection on the project (challenges, successes, what you learned, etc.) and an annotated bibliography of sources that you consulted. Your project and accompany Word document should both be submitted to: <https://www.dropbox.com/request/IvrFko3txPJn28z7qkHe>.
 
-*Rough Draft of project due Monday, November 30th by 2:30PM.*
+*Prepare and present a "Work in Progress" of your project in class on Monday, November 30th.*
 
-*Final version of project due Sunday December 6th by midnight.*
+*Final version of project due Sunday December 6th by 11:59PM.*
 
 
